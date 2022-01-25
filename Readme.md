@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="https://madhukeshavsharma.com/assets/img/hero-04.jpg" /></a></p>
+<p align="center"><a href="https://madhukeshavsharma.com"><img width="100%" src="https://madhukeshavsharma.com/assets/img/hero-04.jpg" /></a></p>
 
 <br />
 
