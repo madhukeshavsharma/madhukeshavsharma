@@ -140,6 +140,9 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 <p><img src="https://madhukeshav.com/external/engame.png" width="49%"/>&emsp;<img src="https://madhukeshav.com/external/cravrr%20admin.png" width="49%"/></p>
 <p><img src="https://madhukeshav.com/external/aurainterior.png" width="49%"/>&emsp;<img src="https://madhukeshav.com/external/vouched.png" width="49%"/></p>
 <p><img src="https://madhukeshav.com/external/gamepitara.png" width="49%"/>&emsp;<img src="https://madhukeshav.com/external/zcelindia.png" width="49%"/></p>
+<p><a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+ </a></p>
 
 
 <br>
