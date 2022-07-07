@@ -19,7 +19,7 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=CSS&logoColor=white">
   </a> 
 	&emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -116,7 +116,7 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/7oSkaaa"><img alt="Madhukeshav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhukeshavsharma&custom_title=Madhukeshav's%20Contribution%20Graph&theme=react-dark" /></a>
 <br>
    
 ## 💻 My Project
