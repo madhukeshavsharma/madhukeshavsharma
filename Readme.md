@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrier as a HTML developer and currently I'm working as a React JS developer and learning as a MERN stack developer.
+I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrier as a HTML developer and currently I'm working as a React JS developer and learning as a MERN stack developer. <a href="https://madhukeshavsharma.com" target="_blank"> Know more</a>
 
 ## 🛠️ My Skills
 
@@ -140,8 +140,8 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 <p><img src="https://madhukeshav.com/external/engame.png" width="49%"/>&emsp;<img src="https://madhukeshav.com/external/cravrr%20admin.png" width="49%"/></p>
 <p><img src="https://madhukeshav.com/external/aurainterior.png" width="49%"/>&emsp;<img src="https://madhukeshav.com/external/vouched.png" width="49%"/></p>
 <p><img src="https://madhukeshav.com/external/gamepitara.png" width="49%"/>&emsp;<img src="https://madhukeshav.com/external/zcelindia.png" width="49%"/></p>
-<p><a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+<p align="center"><a href="https://madhukeshavsharma.com" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/Know more%20-%23E34F26.svg?style=plastic&logoColor=white">
  </a></p>
 
 
