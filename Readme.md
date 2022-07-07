@@ -127,7 +127,7 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 ----
 <b>⚡ Streak Stats</b>
  
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukeshavsharma&theme=algolia&" alt="madhukeshavsharma" width="100%"/></p>
+<a href="https://github.com/madhukeshavsharma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukeshavsharma&theme=algolia&" alt="madhukeshavsharma" width="100%"/></a>
 
 ----
 
