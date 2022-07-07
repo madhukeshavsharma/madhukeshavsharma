@@ -169,6 +169,12 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	<br/>
+ - Website: [www.madhukeshavsharma.com](https://madhukeshavsharma.com)
+ - Email: [contact@madhukeshavsharma.com](contact@madhukeshavsharma.com)
+ - Mobile: [+91-9522990120](+91-9522990120)
 </p>
- 
-![Copyright](http://madhukeshav.com/assets/img/others/copyright.png)
+
+<br/>
+----
+<p align="center">© 2022 Designed and developed by Madhukeshav Sharma</p>
