@@ -102,7 +102,7 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 <summary><b>⚡ Github Stats</b></summary>
  <br/>
   <p align="center">
-    <a href="https://github.com/madhukeshavsharma/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhukeshavsharma&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/madhukeshavsharma/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhukeshavsharma&show_icons=true&count_private=true&theme=algolia" width="846px"/></a>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -110,13 +110,13 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 ----
 <summary><b>⚡ Streak Stats</b></summary>
  <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukeshavsharma&theme=algolia" alt="madhukeshavsharma" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukeshavsharma&theme=algolia" alt="madhukeshavsharma" width="846px" /></p>
 
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="Madhukeshav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhukeshavsharma&custom_title=Madhukeshav's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/7oSkaaa"><img alt="Madhukeshav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhukeshavsharma&custom_title=Madhukeshav's%20Contribution%20Graph&theme=react-dark" width="846px" /></a>
 <br>
    
 ## 💻 My Project
