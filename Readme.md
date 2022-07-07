@@ -165,9 +165,5 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-##
+ 
 ![Copyright](http://madhukeshav.com/assets/img/others/copyright.png)
