@@ -13,7 +13,7 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 
 ### 👉 Frontend Development
 <p> 
-  &emsp; 
+  &emsp;&emsp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
@@ -31,10 +31,44 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
   </a> 
 </p>
 
+### 👉 Backend Development
+ 
+<p>
+  &emsp;&emsp;
+    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+</p>
+
+### 👉 Database
+ 
+<p>
+  &emsp;&emsp;
+    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+</p>
+
  ### 👉 Software & Tools
  
 <p>
-  &emsp;
+  &emsp;&emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
@@ -50,14 +84,12 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
  
 <p>
-  &emsp;
+  &emsp;&emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
@@ -67,40 +99,25 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### 👉 Competitive Programming & Problem Solving
- 
-<p>
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
 
  ### 👉 Operating Systems
  
 <p>
+  &emsp;&emsp;
+	<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	 
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
+	<a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+     
 </p>
 
 <br/>
 
 ## 💻 Stats
 
-<summary><b>⚡ Github Stats</b></summary>
- <br/>
+<b>⚡ Github Stats</b>
+ 
   <p>
     <a href="https://github.com/madhukeshavsharma/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhukeshavsharma&show_icons=true&count_private=true&theme=algolia" width="100%"/></a>
 <br/>
@@ -108,14 +125,14 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
   </p>
 
 ----
-<summary><b>⚡ Streak Stats</b></summary>
- <br/>
+<b>⚡ Streak Stats</b>
+ 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukeshavsharma&theme=algolia" alt="madhukeshavsharma" width="100%"/></p>
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+  <b>⚡ Recent GitHub Activity</b>
+  
    <a href="https://github.com/madhukeshavsharma"><img alt="Madhukeshav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhukeshavsharma&custom_title=Madhukeshav's%20Contribution%20Graph&theme=react-dark" width="100%" /></a>
 <br>
    
