@@ -3,8 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React.js,+React+Native+in+Front-End;Node.js,+Express,+MongoDB+in+Back-End;&center=true&width=500&height=50"></a>
 </p>
 
-# Hi, I'm Madhukeshav! 👋
-
 ![Banner](https://madhukeshav.com/assets/img/hero-04.jpg)
 
 
@@ -47,28 +45,6 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 
 
 
-## :sassy_man:  About me
-- 💻: I am a `Software Engineer` at Capgemini
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :nerd_face: Always `learning new things`
-
-<br>
-
-## :sassy_man:  Contact Information
-- 💻: www.madhukeshavsharma.com
-- 💻: contact@madhukeshavsharma.com
-
-<br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
-<br>
 
 
 ## 👀 My Competitive Programming Profiles
@@ -184,13 +160,20 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 
 <br/>
 
-## 💻 Github Stats
+## 💻 Stats
 
+<summary><b>⚡ Github Stats</b></summary>
+ <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+
+----
+<summary><b>⚡ Streak Stats</b></summary>
+ <br/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
 
 ----
 
