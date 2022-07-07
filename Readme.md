@@ -3,6 +3,37 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React.js,+React+Native+in+Front-End;Node.js,+Express,+MongoDB+in+Back-End;&center=true&width=500&height=50"></a>
 </p>
 
+# Hi, I'm Madhukeshav! 👋
+
+![Banner](https://madhukeshav.com/assets/img/hero-04.jpg)
+
+
+## 🚀 About Me
+I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrier as a HTML developer and currently I'm working as a React JS developer and learning as a MERN stack developer.
+
+
+## 💁‍♂️ Contact Information
+
+ - Website: [www.madhukeshavsharma.com](https://madhukeshavsharma.com)
+ - Email: [contact@madhukeshavsharma.com](contact@madhukeshavsharma.com)
+ - Mobile: [+91-9522990120](+91-9522990120)
+## 🛠 Skills
+**Front-End:** HTML, CSS, Javascript, JQuery, React JS, React Native
+
+**Backend:** Node JS, Express JS, Next JS
+
+**Database:** MongoDB, Postgrace, SQL, MySql
+## 💻 My Project
+
+![](https://madhukeshav.com/assets/img/projects/react_1.png)
+![](http://madhukeshav.com/assets/img/projects/html_php_2.png)
+![](http://madhukeshav.com/assets/img/projects/php_5.png)
+![](http://madhukeshav.com/assets/img/projects/html_3.png)
+
+
+
+![Copyright](http://madhukeshav.com/assets/img/others/copyright.png)
+
 
 <br>
 
