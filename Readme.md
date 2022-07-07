@@ -102,7 +102,7 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 <summary><b>⚡ Github Stats</b></summary>
  <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/madhukeshavsharma/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhukeshavsharma&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -110,7 +110,7 @@ I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrie
 ----
 <summary><b>⚡ Streak Stats</b></summary>
  <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukeshavsharma&theme=algolia" alt="madhukeshavsharma" /></p>
 
 ----
 
