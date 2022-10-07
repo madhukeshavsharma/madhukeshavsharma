@@ -3,8 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React.js,+React+Native+in+Front-End;Node.js,+Express,+MongoDB+in+Back-End;&center=true&width=500&height=50"></a>
 </p>
 
-![Banner](https://madhukeshav.com/assets/img/hero-04.jpg)
-
 
 ## 🚀 About Me
 I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrier as a HTML developer and currently I'm working as a React JS developer and learning as a MERN stack developer. <a href="https://madhukeshavsharma.com" target="_blank"> Know more</a>
