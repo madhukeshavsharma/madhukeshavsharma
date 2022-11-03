@@ -4,113 +4,33 @@
 </p>
 
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React JS & Reactive Native. I also have experience working with HTML, CSS, Javascript, JQuery, PHP, SCSS, GIT, and React JS with Microfrontend architecture. Take a look at my work or get in touch! <a href="https://madhukeshavsharma.com" target="_blank">www.madhukeshavsharma.com</a>
 
 ## 🛠️ My Skills
 
 ### 👉 Frontend Development
-<p> 
-  &emsp;&emsp;
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=CSS&logoColor=white">
-  </a> 
-	&emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=Javascript&logoColor=white">
-  </a> 
-	&emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=React JS&logoColor=white">
-  </a> 
-</p>
+<p>&emsp;&emsp; React JS   &emsp;| &emsp;  HTML   &emsp;| &emsp;  CSS   &emsp;| &emsp;  JavaScript   &emsp;| &emsp;  Jquery   &emsp;| &emsp;  PHP   &emsp;| &emsp; Wordpress   &emsp;| &emsp;  MicroFrontend</p>
 
-### 👉 Backend Development
- 
-<p>
-  &emsp;&emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
-
-### 👉 Database
- 
-<p>
-  &emsp;&emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
 
  ### 👉 Software & Tools
- 
-<p>
-  &emsp;&emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-</p>
+<p>&emsp;&emsp; GITHub &emsp;|&emsp; Postman &emsp;</p>
 
- ### 👉 IDEs
- 
-<p>
-  &emsp;&emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-</p>
+
+ ### 👉 IDE's
+<p>&emsp;&emsp; Visual Studio Code  &emsp;| &emsp;  Sublime   &emsp;| &emsp;  Atom   &emsp;</p>
 
 
  ### 👉 Operating Systems
- 
-<p>
-  &emsp;&emsp;
-	<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	 
-  &emsp;
-	<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-	<a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-     
-</p>
+<p>&emsp;&emsp; Windows  &emsp;| &emsp;  IOS   &emsp;| &emsp;  Linux   &emsp;</p>
+
+
 
 <br/>
 
 ## 💻 Stats
 
-<b>⚡ Github Stats</b>
+<b>🌟 Github Stats</b>
  
   <p>
     <a href="https://github.com/madhukeshavsharma/github-readme-stats"><img alt="Madhukeshav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhukeshavsharma&show_icons=true&count_private=true&theme=algolia" width="100%"/></a>
@@ -119,13 +39,13 @@ I am a Front End developer with industry experience building websites and web ap
   </p>
 
 ----
-<b>⚡ Streak Stats</b>
+<b>🌟 Streak Stats</b>
  
 <a href="https://github.com/madhukeshavsharma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukeshavsharma&theme=algolia&" alt="madhukeshavsharma" width="100%"/></a>
 
 ----
 
-  <b>⚡ Recent GitHub Activity</b>
+  <b>🔍 Recent GitHub Activity</b>
   
    <a href="https://github.com/madhukeshavsharma"><img alt="Madhukeshav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhukeshavsharma&custom_title=Madhukeshav's%20Contribution%20Graph&theme=react-dark" width="100%" /></a>
 <br>
@@ -141,7 +61,7 @@ I am a Front End developer with industry experience building websites and web ap
 
 <br>
 
-## 💁‍♂️ Connect with me
+## 📱Connect with me
 <p align="center">
 	<a href="mailto:info@madhukeshavsharma.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="contact@madhukeshavsharma.com"/></a>
 	<a href="https://github.com/madhukeshavsharma"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
