@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I'm from Madhubani bihar. I have done my B.Tech in 2017 and then start my carrier as a HTML developer and currently I'm working as a React JS developer and learning as a MERN stack developer. <a href="https://madhukeshavsharma.com" target="_blank"> Know more</a>
+I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React JS & Reactive Native. I also have experience working with HTML, CSS, Javascript, JQuery, PHP, SCSS, GIT, and React JS with Microfrontend architecture. Take a look at my work or get in touch! <a href="https://madhukeshavsharma.com" target="_blank">www.madhukeshavsharma.com</a>
 
 ## 🛠️ My Skills
 
