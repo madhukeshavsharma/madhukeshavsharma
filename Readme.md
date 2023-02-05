@@ -44,10 +44,6 @@ I am a Front End developer with industry experience building websites and web ap
 <a href="https://github.com/madhukeshavsharma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhukeshavsharma&theme=algolia&" alt="madhukeshavsharma" width="100%"/></a>
 
 ----
-
-  <b>🔍 Recent GitHub Activity</b>
-  
-   <a href="https://github.com/madhukeshavsharma"><img alt="Madhukeshav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhukeshavsharma&custom_title=Madhukeshav's%20Contribution%20Graph&theme=react-dark" width="100%" /></a>
 <br>
    
 ## 💻 My Project
